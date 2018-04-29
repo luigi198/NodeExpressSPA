@@ -1,6 +1,7 @@
 // controllers
 // var main = require('../app/controllers/main')
 // var api = require('../app/controllers/api')
+var path = require('path');
 
 // -----------------------
 // Expose
